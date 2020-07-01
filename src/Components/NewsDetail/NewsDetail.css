@@ -1,0 +1,26 @@
+.NewsDetail {
+    max-width: 350px;
+    padding-right: 30px;
+}
+.NewsDetail h2 {
+    text-transform: none;
+    margin-bottom: 30px;
+}
+.NewsDetail p {
+    color: rgba(51, 61, 81, 0.5);
+}
+.detailDate{
+    margin-top: 30px;
+}
+.detailDate span{
+    font-size: 30px;
+    color: #333D51;
+}
+.NewsDetailImg {
+    margin-bottom: 60px;
+    height: 410px;
+}
+.NewsDetailCaption {
+    width: 730px;
+    font-size: 25px;
+}

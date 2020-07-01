@@ -1,0 +1,42 @@
+.contactsPage {
+    display: flex;
+    padding: 90px 0px;
+}
+.contactsAutor h1 {
+    font-size: 56px;
+    color: #004FEC;
+    padding-bottom: 50px;
+}
+.contactsAutor h2 {
+    font-size: 25px;
+    text-transform: none;
+    font-weight: 400;
+    position: relative;
+    padding-left: 23px;
+    margin-bottom: 25px;
+}
+.contactsAutor  h2::before{
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 100%;
+    background: #004FEC;
+    left: 0px;
+}
+.contactsCaption {
+    margin-top: 52px;
+}
+.contactsCaption h4 {
+    color: rgba(51, 61, 81, 0.5);
+    font-size: 20px;
+    text-transform: none;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+.contactsImgWrapper {
+    margin-left: 200px;
+}
+.contactsImg {
+    background-size: cover;
+    max-width: 300px;
+}

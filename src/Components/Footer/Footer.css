@@ -1,0 +1,16 @@
+.footer {
+    padding: 45px 0px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.footerTitle h3, .footerAutor h3 {
+    text-transform: none;
+    font-size: 25px;
+}
+.footerTitle p, .footerAutor p {
+    font-size: 12px;
+}
+.footerAutor p {
+    text-align: right;
+}

@@ -1,0 +1,25 @@
+.homePage {
+    padding-top: 80px;
+}
+.homePage h1 {
+    text-transform: none;
+    padding-bottom: 100px;
+    font-size:56px;
+    line-height: 1.1em;
+}
+.homePage h1 span {
+    color: #004FEC;
+}
+.getNews{
+    color: #004FEC;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-bottom: 2px solid transparent;
+}
+.getNews:hover {
+    border-bottom: 2px solid #004FEC;
+}
+.homeNewsWrapper{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,24 @@
+/* ---------- Hat ---------- */
+.hat {
+    padding: 45px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+.hat h2 {
+    font-size: 25px;
+    text-transform: none;
+}
+
+.hat li a {
+    margin-left: 28px;
+    font-size: 18px;
+    color: #000;
+}
+
+.hat li a.active {
+    color: #004FEC;
+    font-size: 18px;
+}
+.hat li a:hover {
+    text-decoration: none;
+}
